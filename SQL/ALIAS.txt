@@ -1,0 +1,23 @@
+
+
+USE ContosoRetailDW
+
+SELECT 
+	StoreKey AS 'CÓDIGO DA LOJA', 
+	StoreName AS 'NOME DA LOJA',
+	EmployeeCount AS 'QUANTIDADE DE FUNCIONÁRIOS',
+	ZipCode
+FROM DimStore
+
+
+
+EXEMPLO ABAIXO MOSTRA QUE FUNCIONA SEM ASPAS SIMPLES:
+
+USE ContosoRetailDW
+
+SELECT 
+	StoreKey AS 'CÓDIGO DA LOJA', 
+	StoreName AS 'NOME DA LOJA',
+	EmployeeCount AS QuantidadedeFuncionários
+FROM DimStore
+

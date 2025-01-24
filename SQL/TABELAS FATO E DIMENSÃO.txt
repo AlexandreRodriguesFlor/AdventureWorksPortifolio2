@@ -1,0 +1,8 @@
+
+Tabela fato
+armazena eventos - data,valores,numeros tabela enxuta
+
+tabela Dimensão
+armazena caracteristicas desses eventos
+
+

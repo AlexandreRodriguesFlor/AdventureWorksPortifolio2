@@ -1,0 +1,6 @@
+
+
+​AdventureWorks: https://learn.microsoft.com/pt-br/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms​
+
+
+Contoso: https://www.microsoft.com/en-us/download/details.aspx?id=18279&6B49FDFB-8E5B-4B07-BC31-15695C5A2143=1​

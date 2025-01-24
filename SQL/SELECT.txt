@@ -1,0 +1,12 @@
+
+
+USE ContosoRetailDW
+
+SELECT 
+	StoreKey, 
+	StoreName,
+	EmployeeCount,
+	ZipCode
+FROM DimStore
+
+SEMPRE TENTE MINIMIZAR A QUANTIDADE DE INFORMAÇÕES PARA FAZER AS CONSULTAS

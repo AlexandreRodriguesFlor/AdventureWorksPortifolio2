@@ -1,0 +1,15 @@
+
+SOLUÇOES SQL SERVER - ERRO 
+
+SQL SERVER - ERRO: "Falha no identificador de recuperação do Mecanismo de Banco de Dados"
+
+Assista este vídeo: https://www.youtube.com/watch?v=tkHBnUI4g6M
+
+Página da solução: https://learn.microsoft.com/pt-br/troubleshoot/sql/database-engine/database-file-operations/troubleshoot-os-4kb-disk-sector-size
+
+local raiz disco C:
+C:\Program Files\Microsoft SQL Server
+
+link para baixar o arquivo instalação SSMS
+https://aka.ms/ssmsfullsetup
+

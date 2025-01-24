@@ -1,0 +1,4 @@
+
+
+SELECT COUNT([InventoryKey])
+  FROM [ContosoRetailDW].[dbo].[FactInventory]

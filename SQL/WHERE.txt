@@ -1,0 +1,15 @@
+
+
+USE ContosoRetailDW
+
+SELECT TOP 100 WITH TIES
+	EmailAddress AS 'Endereço de email',
+	Gender,
+	MaritalStatus,
+	TotalChildren,
+	NumberChildrenAtHome,
+	NumberCarsOwned AS 'Quantidades de Carros',
+	Education
+FROM DimCustomer
+WHERE Education = 'High School'
+ORDER BY 2 DESC, 3 DESC, 4 DESC, [Quantidades de Carros] DESC
