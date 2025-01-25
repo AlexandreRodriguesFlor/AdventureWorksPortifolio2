@@ -40,3 +40,36 @@ Filtramos apenas o ano de 2013, pois foi o período com maiores taxas de crescim
 - Apenas os Estados Unidos tiveram um crescimento maior que todos países da Europa juntos, sendo a América do Norte o principal mercado de atuação da empresa.
 - Todos países europeus dobraram ou superaram sua base de novos clientes. <br>
 - Austrália, apesar de não ter um crescimento comparável com Europa e América do Norte, aumentou sua base de novos clientes em quase 50%, sendo um ótimo resultado em 2013. <br>
+
+<br>
+<a href="https://github.com/AlexandreRodriguesFlor/AdventureWorksPortifolio2/blob/main/SQL/AdventureWorks%20-%20Novos%20Clientes%20Delta%202013.sql" target="_blank">Clique aqui</a> e acesse o script SQL no Github.
+
+<br><br>
+
+## Conclusão técnica SQL
+Com o SQL, podemos analisar, extrair, manipular e exibir os dados de uma base de dados de uma forma simples e rápida, apenas conectando direto na fonte dos dados. Porém, não é uma ferramenta dinâmica em com abordagem visual, pois cada vez que pricisa ver os dados de uma forma diferente, precisa reescrever o comando SQL para extrair os dados da forma que gostaria, porem os dados sempre serão exibidos em formato de tabela, deixando sua análise menos dinamica do que um dashboard, por exemplo.
+
+A minha conclusão é que o SQL é sempre uma linguagem muito importante e deve ser utilizada para analisar um banco de dados antes de escolher outra ferramenta para análise dos dados, como o Power BI por exemplo. Ou seja, valide as informações no SQL e só depois considere outras ferramentas de acordo com a necessidade da empresa ou projeto que estiver atuando.
+Não existe uma ferramenta melhor que a outra, existe ferramentas adequadas as necessidades apresentadas em cada projeto de dados.
+
+<br><br>
+
+## Dashboard Power BI
+<img align="right" width="500"  src="https://github.com/AlexandreRodriguesFlor/AdventureWorksPortifolio2/blob/main/IMAGENS/Captura%20de%20tela%202023-12-03%20121514.png?raw=true">
+Seguindo a idéia que SQL não é a melhor ferramenta para uma análise dinâmica e visual de informações, desenvolvi um dashboard focado na análise dos clientes novos e recorrentes da mesma base de dados AdventureWorks.
+Como o Power BI permite análises dinâmicas e visuais de forma simples, escrevendo menos código DAX e permitindo o usuário total interação com a ferramenta, fiz uma análise exploratória na quantidade e receira entre novos e recoreente.<br>
+Com esta análise, chegamos as seguintes conclusões:<br>
+ - A maioria dos clientes a partir de 2013 é novo. <br>
+ - Além da quantidade de clientes novos, a receita trazida por clientes novos também é a maior fatia do total.<br>
+ - Os clientes novos não são a maioria para todos países e períodos. Por isso o Power BI é uma ferramenta de extrema importância, pois permite o usuário final fazer seus filtros e ter análises de forma dinâmica.
+<br><br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNWJjODBmOTAtYmNhMy00YjdmLTk5ZDMtMDc4NGI4NDY3YzJmIiwidCI6IjQxNGU0N2Q2LTVhNGUtNDkzZS05OWJkLTUzMTYwZjJhYWY2ZiJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
+<br>
+<a href="https://github.com/AlexandreRodriguesFlor/AdventureWorksPortifolio2/blob/main/POWERBI/AdventureWorks%20-%20Clientes.pbix" target="_blank">Clique aqui</a> e acesse o arquivo .pbix no Github.
+<br><br>
+
+## Ferramentas e linguagens utilizadas
+<div style="display: inline_block">
+    <img align="center" alt="SQL" height="40" width="40" src="https://github.com/AlexandreRodriguesFlor/Portfolio/blob/main/linguagens/sql.png?raw=true">
+    <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/AlexandreRodriguesFlor/Portfolio/blob/main/linguagens/python.png?raw=true">
+</div>
