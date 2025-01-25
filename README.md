@@ -71,5 +71,5 @@ Com esta análise, chegamos as seguintes conclusões:<br>
 ## Ferramentas e linguagens utilizadas
 <div style="display: inline_block">
     <img align="center" alt="SQL" height="40" width="40" src="https://github.com/AlexandreRodriguesFlor/Portfolio/blob/main/linguagens/sql.png?raw=true">
-    <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/AlexandreRodriguesFlor/Portfolio/blob/main/linguagens/python.png?raw=true">
+    <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/AlexandreRodriguesFlor/Portfolio/blob/main/linguagens/power%20bi.png?raw=true">
 </div>
